@@ -24,12 +24,14 @@ Im computer engineering student at Yazd University in Iran, fanscinated by compe
 <p align="left">
 	<img 
 		height="150px" 
-		src="https://github-readme-stats-1chooo.vercel.app/api/wakatime?username=1chooo&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=05080b"
-		alt="1chooo-wakatime-time" />
-	<img 
-		height="150px" 
 		src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-jafaripour&theme=react&hide_border=false&card_height=120&background=05080b&fire=ff9900&ring=ff9900&stroke=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&sideNums=ff9900&currStreakNum=cccccc&dates=cccccc"
 		alt="Ali-jafaripour" />
+	 <img 
+		height="150px" 
+		src=""
+		alt="Δlι-wakatime-time" />
+  
+	
 </p>
 
 
