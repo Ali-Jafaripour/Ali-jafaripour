@@ -7,7 +7,7 @@ Im computer engineering student at Yazd University in Iran, fanscinated by compe
 
 <p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=py,java,cpp,javascript,ts,html,css,vite,npm,tailwind,figma,react" />
+		<img src="https://skillicons.dev/icons?i=java,cpp,javascript,ts,html,css,vite,npm,tailwind,figma,react" />
 	</a>
 </p>
 
