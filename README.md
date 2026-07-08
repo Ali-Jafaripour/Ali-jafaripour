@@ -7,8 +7,7 @@ Im computer engineering student at Yazd University in Iran, fanscinated by compe
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,cpp,javascript,ts,html,css,vite,npm,tailwind,figma,react" />
-	</a>
+	<img src="https://skillicons.dev/icons?i=docker,gitlab,nextjs,react,typescript,javascript,html,css,tailwind,redux,vite,figma" />	</a>
 </p>
 
 [//]: <> (<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,figma,githubactions,docker,fastapi,react,flask,dynamodb" /></a></p>)
