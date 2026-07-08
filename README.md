@@ -1,6 +1,6 @@
 <h1 align="center"><b> ʚ  Hi there, I'm Δlι  ɞ</b></h1>
 
-![](./Banner.png)
+![](./Banner-Architect.png)
 Im computer engineering student at Yazd University in Iran, fanscinated by compeuter and everything that comes with them :)
 <br></br>
 ## 🛠 &nbsp;Tech Stack:
